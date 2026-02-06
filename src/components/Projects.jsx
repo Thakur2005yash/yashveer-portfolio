@@ -30,62 +30,62 @@ const Projects = () => {
     {
       id: 1,
       title: 'E-Commerce Platform',
-      description: 'A full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.',
-      image: 'https://via.placeholder.com/600x400/4F46E5/FFFFFF?text=E-Commerce',
-      tech: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+      description: 'A modern e-commerce platform built with React, Node.js, and MongoDB. Features user authentication, payment processing with Stripe, and admin dashboard for inventory management.',
+      image: 'https://images.unsplash.com/photo-1563013542-302247633-73d44b8e94d8f?auto=format&fit=crop&w=600&h=400',
+      tech: ['React', 'Node.js', 'MongoDB', 'Stripe', 'Tailwind CSS'],
       category: 'fullstack',
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: 'https://ayushxpal-portfolio.vercel.app/ecommerce',
+      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
     },
     {
       id: 2,
       title: 'Task Management App',
-      description: 'A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
-      image: 'https://via.placeholder.com/600x400/10B981/FFFFFF?text=Task+Manager',
-      tech: ['React', 'Firebase', 'Tailwind CSS'],
-      category: 'frontend',
-      liveUrl: '#',
-      githubUrl: '#'
+      description: 'A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features. Built with React, Firebase, and Material-UI.',
+      image: 'https://images.unsplash.com/photo-16185649935-11ab4cbd4871b83e?auto=format&fit=crop&w=600&h=400',
+      tech: ['React', 'Firebase', 'Material-UI', 'Redux'],
+      category: 'fullstack',
+      liveUrl: 'https://ayushxpal-portfolio.vercel.app/tasks',
+      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
     },
     {
       id: 3,
       title: 'Weather Dashboard',
-      description: 'A responsive weather dashboard that displays current weather conditions and forecasts for multiple cities with beautiful data visualizations.',
-      image: 'https://via.placeholder.com/600x400/F59E0B/FFFFFF?text=Weather+App',
-      tech: ['JavaScript', 'API Integration', 'Chart.js'],
-      category: 'frontend',
-      liveUrl: '#',
-      githubUrl: '#'
+      description: 'A responsive weather dashboard that displays current weather conditions and forecasts for multiple cities with beautiful data visualizations using React and Chart.js.',
+      image: 'https://images.unsplash.com/photo-1550745248-5e9a331629a7?auto=format&fit=crop&w=600&h=400',
+      tech: ['React', 'JavaScript', 'Chart.js', 'OpenWeather API'],
+      category: 'fullstack',
+      liveUrl: 'https://ayushxpal-portfolio.vercel.app/weather',
+      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
     },
     {
       id: 4,
       title: 'Blog Platform',
-      description: 'A modern blogging platform with markdown support, user authentication, and a clean, minimalist design focused on content readability.',
-      image: 'https://via.placeholder.com/600x400/8B5CF6/FFFFFF?text=Blog+Platform',
-      tech: ['Next.js', 'PostgreSQL', 'Prisma'],
+      description: 'A modern blogging platform with markdown support, user authentication, and a clean, minimalist design focused on content readability. Built with Next.js and PostgreSQL.',
+      image: 'https://images.unsplash.com/photo-15432463831-0f6ec4700b2?auto=format&fit=crop&w=600&h=400',
+      tech: ['Next.js', 'PostgreSQL', 'Prisma', 'Tailwind CSS'],
       category: 'fullstack',
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: 'https://ayushxpal-portfolio.vercel.app/blog',
+      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
     },
     {
       id: 5,
       title: 'Portfolio Website',
-      description: 'A stunning portfolio website with smooth animations, responsive design, and optimized performance for showcasing creative work.',
-      image: 'https://via.placeholder.com/600x400/EC4899/FFFFFF?text=Portfolio',
-      tech: ['React', 'Tailwind CSS', 'Framer Motion'],
+      description: 'A stunning portfolio website with smooth animations, responsive design, and optimized performance for showcasing creative work. Built with React, Tailwind CSS, and Framer Motion.',
+      image: 'https://images.unsplash.com/photo-1557427272-ffd05d4f3?auto=format&fit=crop&w=600&h=400',
+      tech: ['React', 'Tailwind CSS', 'Framer Motion', 'Vercel'],
       category: 'frontend',
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: 'https://ayushxpal-portfolio.vercel.app',
+      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
     },
     {
       id: 6,
       title: 'API REST Service',
-      description: 'A robust RESTful API service with comprehensive documentation, authentication, and scalable architecture for enterprise applications.',
-      image: 'https://via.placeholder.com/600x400/059669/FFFFFF?text=API+Service',
-      tech: ['Node.js', 'Express', 'PostgreSQL', 'Docker'],
+      description: 'A robust RESTful API service with comprehensive documentation, authentication, and scalable architecture for enterprise applications. Built with Node.js, Express, PostgreSQL, and Docker.',
+      image: 'https://images.unsplash.com/photo-1464334394-460e3278f8?auto=format&fit=crop&w=600&h=400',
+      tech: ['Node.js', 'Express', 'PostgreSQL', 'Docker', 'JWT'],
       category: 'backend',
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: 'https://ayushxpal-portfolio.vercel.app/api',
+      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
     }
   ];
 

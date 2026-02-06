@@ -34,8 +34,8 @@ const ContactModal = ({ isOpen, onClose, email }) => {
     setStatus('idle');
 
     try {
-      // Simple mailto fallback - opens email client
-      const mailtoLink = `mailto:ayushpalworks@gmail.com?subject=${encodeURIComponent('Portfolio Contact from ' + formData.name)}&body=${encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage: ${formData.message}`)}`;
+      // Simple mailto fallback - opens email client with pre-filled details
+      const mailtoLink = `mailto:ayushpalworks@gmail.com?subject=${encodeURIComponent('Portfolio Contact from ' + formData.name)}&body=${encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage: ${formData.message}\n\n---\nSent from Ayush Pal Portfolio (https://ayush-portfolio.vercel.app)`)}`;
       window.open(mailtoLink, '_blank');
       
       setStatus('success');
