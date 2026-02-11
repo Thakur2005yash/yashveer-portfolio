@@ -1,4 +1,4 @@
-# Ayush Pal Portfolio
+# Yashveer Portfolio
 
 A modern, responsive portfolio website built with React and Tailwind CSS.
 
@@ -25,8 +25,8 @@ A modern, responsive portfolio website built with React and Tailwind CSS.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/ayushxpal/ayush-portfolio.git
-cd ayush-portfolio
+git clone https://github.com/yashveer/yashveer-portfolio.git
+cd yashveer-portfolio
 ```
 
 2. Install dependencies
@@ -100,4 +100,4 @@ MIT License - feel free to use this template for your own portfolio!
 
 ---
 
-Made with ❤️ by [Ayush Pal](https://github.com/ayushxpal)
+Made with ❤️ by [Yashveer](https://github.com/yashveer)

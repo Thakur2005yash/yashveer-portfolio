@@ -3,12 +3,12 @@
 ## Quick Setup (5 minutes)
 
 1. **Sign up** at https://www.emailjs.com/
-2. **Add Email Service**: Gmail recommended (connect your ayushpalworks@gmail.com)
+2. **Add Email Service**: Gmail recommended (connect your yashveerworks@gmail.com)
 3. **Create Email Template**:
    - From name: {{from_name}}
    - From email: {{from_email}}
    - Message: {{message}}
-   - To email: ayushpalworks@gmail.com
+   - To email: yashveerworks@gmail.com
 4. **Get your IDs**:
    - Service ID (e.g., service_abc123)
    - Template ID (e.g., template_xyz789)
@@ -23,10 +23,10 @@
        from_name: formData.name,
        from_email: formData.email,
        message: formData.message,
-       to_email: 'ayushpalworks@gmail.com'
+      to_email: 'yashveerworks@gmail.com'
      },
      'YOUR_PUBLIC_KEY'         // Replace with your Public Key
    );
    ```
 
-That's it! All form submissions will go to ayushpalworks@gmail.com.
+That's it! All form submissions will go to yashveerworks@gmail.com.

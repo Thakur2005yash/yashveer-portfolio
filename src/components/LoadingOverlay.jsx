@@ -22,7 +22,7 @@ const LoadingOverlay = () => {
     >
       <div className="text-center">
         <div className="mb-8">
-          <h1 className="text-5xl md:text-7xl font-bold mb-2 animate-pulse">Ayush Pal</h1>
+          <h1 className="text-5xl md:text-7xl font-bold mb-2 animate-pulse">Yashveer Singh</h1>
           <p className="text-lg md:text-xl opacity-70">Full-Stack Developer</p>
         </div>
         <div className="flex justify-center space-x-2">

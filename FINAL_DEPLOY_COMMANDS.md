@@ -1,4 +1,4 @@
-# 🚀 FINAL DEPLOY COMMANDS - ayushxpal-portfolio
+# 🚀 FINAL DEPLOY COMMANDS - yashveer-portfolio
 
 ## STEP 1: Create GitHub Token
 1. Go to: https://github.com/settings/tokens
@@ -13,7 +13,7 @@
 Open Command Prompt and run:
 
 ```
-cd C:\Users\palay\CascadeProjects\ayushxpal-portfolio
+cd C:\Users\palay\CascadeProjects\yashveer-portfolio
 ```
 
 ```
@@ -25,7 +25,7 @@ git add .
 ```
 
 ```
-git commit -m "Initial commit - Ayush Pal Portfolio"
+git commit -m "Initial commit - Yashveer Portfolio"
 ```
 
 ```
@@ -33,7 +33,7 @@ git branch -M main
 ```
 
 ```
-git remote add origin https://YOUR_TOKEN@github.com/ayushxpal/ayush-portfolio.git
+git remote add origin https://YOUR_TOKEN@github.com/yashveer/yashveer-portfolio.git
 ```
 **IMPORTANT**: Replace `YOUR_TOKEN` with the token you copied
 
@@ -42,9 +42,9 @@ git push -u origin main
 ```
 
 ## STEP 3: Create GitHub Repository
-1. Go to: https://github.com/ayushxpal
+1. Go to: https://github.com/yashveer
 2. Click "New repository"
-3. Name: `ayush-portfolio`
+3. Name: `yashveer-portfolio`
 4. Make it **Public**
 5. Click "Create repository"
 
@@ -52,14 +52,14 @@ git push -u origin main
 1. Go to: https://vercel.com
 2. Click "New Project"
 3. Connect GitHub
-4. Select `ayush-portfolio`
+4. Select `yashveer-portfolio`
 5. Click "Deploy"
 
 ## 🎉 SUCCESS!
 
-Your portfolio will be live at: `https://ayush-portfolio.vercel.app`
+Your portfolio will be live at: `https://yashveer-portfolio.vercel.app`
 
 ---
 
-**Repository**: https://github.com/ayushxpal/ayush-portfolio
-**Live Site**: https://ayush-portfolio.vercel.app
+**Repository**: https://github.com/yashveer/yashveer-portfolio
+**Live Site**: https://yashveer-portfolio.vercel.app

@@ -19,4 +19,4 @@
    await emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', formData, 'YOUR_PUBLIC_KEY');
    ```
 
-All form submissions will be sent to ayushpalworks@gmail.com.
+All form submissions will be sent to yashveerworks@gmail.com.

@@ -20,6 +20,10 @@ const Navbar = ({ onContactClick }) => {
     { href: '#about', label: 'About' },
     { href: '#skills', label: 'Skills' },
     { href: '#projects', label: 'Projects' },
+    { href: '#resume', label: 'Resume' },
+    { href: '#education', label: 'Education' },
+    { href: '#certifications', label: 'Certifications' },
+    { href: '#achievements', label: 'Achievements' },
     { href: '#contact', label: 'Contact' }
   ];
 
@@ -52,7 +56,7 @@ const Navbar = ({ onContactClick }) => {
                   handleNavClick('#home');
                 }}
               >
-                Ayush Pal
+                Yashveer
               </a>
             </div>
 

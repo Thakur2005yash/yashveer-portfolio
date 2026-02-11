@@ -30,7 +30,7 @@ git add .
 ```
 
 ```
-git commit -m "Initial commit - Ayush Pal Portfolio"
+git commit -m "Initial commit - Yashveer Portfolio"
 ```
 
 ```
@@ -38,7 +38,7 @@ git branch -M main
 ```
 
 ```
-git remote add origin https://YOUR_TOKEN@github.com/ayushxpal/ayush-portfolio.git
+git remote add origin https://YOUR_TOKEN@github.com/yashveer/yashveer-portfolio.git
 ```
 **IMPORTANT**: Replace `YOUR_TOKEN` with the token you copied
 
@@ -47,9 +47,9 @@ git push -u origin main
 ```
 
 ## STEP 5: Create Repository
-1. Go to: https://github.com/ayushxpal
+1. Go to: https://github.com/yashveer
 2. Click "New repository"
-3. Name: `ayush-portfolio`
+3. Name: `yashveer-portfolio`
 4. Make it **Public**
 5. Click "Create repository"
 
@@ -57,12 +57,12 @@ git push -u origin main
 1. Go to: https://vercel.com
 2. Click "New Project"
 3. Connect GitHub
-4. Select `ayush-portfolio`
+4. Select `yashveer-portfolio`
 5. Click "Deploy"
 
 ## 🎉 DONE!
 
-Your site will be live at: `https://ayush-portfolio.vercel.app`
+Your site will be live at: `https://yashveer-portfolio.vercel.app`
 
 ---
 

@@ -4,7 +4,7 @@
 
 ### Solution 1: Manual Redeploy
 1. Go to: https://vercel.com/dashboard
-2. Find your `ayush-portfolio` project
+2. Find your `yashveer-portfolio` project
 3. Click "..." (three dots)
 4. Select "Redeploy"
 5. Click "Redeploy" again
@@ -12,13 +12,13 @@
 ### Solution 2: Check GitHub Integration
 1. In Vercel dashboard, click your project
 2. Go to "Settings" → "Git Integration"
-3. Make sure it's connected to `ayushxpal/ayush-portfolio`
+3. Make sure it's connected to `yashveer/yashveer-portfolio`
 4. Click "Save" if needed
 
 ### Solution 3: Force Push
 Open Command Prompt and run:
 ```
-cd C:\Users\palay\CascadeProjects\ayushxpal-portfolio
+cd C:\Users\palay\CascadeProjects\yashveer-portfolio
 .\git push origin main --force
 ```
 
@@ -30,7 +30,7 @@ cd C:\Users\palay\CascadeProjects\ayushxpal-portfolio
 ### Solution 5: Reconnect Repository
 1. In Vercel, click "Disconnect" repository
 2. Then "Connect Repository" again
-3. Select `ayushxpal/ayush-portfolio`
+3. Select `yashveer/yashveer-portfolio`
 4. Click "Deploy"
 
 ### Solution 6: Clear Cache
@@ -40,9 +40,9 @@ cd C:\Users\palay\CascadeProjects\ayushxpal-portfolio
 4. Redeploy
 
 ### Quick Check:
-- GitHub repo: https://github.com/ayushxpal/ayush-portfolio
+- GitHub repo: https://github.com/yashveer/yashveer-portfolio
 - Vercel dashboard: https://vercel.com/dashboard
-- Your site: https://ayush-portfolio.vercel.app
+- Your site: https://yashveer-portfolio.vercel.app
 
 ---
 

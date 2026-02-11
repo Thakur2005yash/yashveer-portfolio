@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const GitHubContributions = ({ username = 'ayushxpal' }) => {
+const GitHubContributions = ({ username = 'yashveer' }) => {
   const [year, setYear] = useState(new Date().getFullYear());
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);

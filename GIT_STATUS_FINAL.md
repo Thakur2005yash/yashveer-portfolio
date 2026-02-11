@@ -1,7 +1,7 @@
 # 🔍 Git Status Check - Final
 
 ## Current Status:
-- **Working Directory**: C:\Users\palay\CascadeProjects\ayushxpal-portfolio ✅
+- **Working Directory**: C:\Users\palay\CascadeProjects\yashveer-portfolio ✅
 - **Git Repository**: Initialized ✅
 - **Remote**: Connected to GitHub ✅
 - **Branch**: main ✅
@@ -17,7 +17,7 @@
 2. Type `cmd` and press Enter
 3. Run these commands:
 ```
-cd C:\Users\palay\CascadeProjects\ayushxpal-portfolio
+cd C:\Users\palay\CascadeProjects\yashveer-portfolio
 git add .
 git commit -m "Updated projects with professional images and proper descriptions"
 git push origin main

@@ -1,4 +1,4 @@
-# Real EmailJS Setup for Ayush Pal Portfolio
+# Real EmailJS Setup for Yashveer Portfolio
 
 The previous credentials were demo/invalid. Here's how to set up REAL email sending:
 
@@ -9,7 +9,7 @@ The previous credentials were demo/invalid. Here's how to set up REAL email send
 ## Step 2: Add Email Service
 1. Click "Email Services" → "Add New Service"
 2. Choose "Gmail" (recommended)
-3. Connect your ayushpalworks@gmail.com
+3. Connect your yashveerworks@gmail.com
 4. Allow permissions (this enables sending)
 
 ## Step 3: Create Email Template
@@ -52,7 +52,7 @@ const handleSubmit = async (e) => {
         from_name: formData.name,
         from_email: formData.email,
         message: formData.message,
-        to_email: 'ayushpalworks@gmail.com'
+        to_email: 'yashveerworks@gmail.com'
       },
       'YOUR_PUBLIC_KEY'       // Replace with your Public Key
     );
@@ -73,10 +73,10 @@ const handleSubmit = async (e) => {
 ```
 
 ## Testing
-After setup, test the form. You should receive emails at ayushpalworks@gmail.com within seconds.
+After setup, test the form. You should receive emails at yashveerworks@gmail.com within seconds.
 
 ## Alternative: Formspree (Easier)
 If EmailJS is complex, try Formspree:
 1. Sign up at https://formspree.io/
-2. Create form linked to ayushpalworks@gmail.com
+2. Create form linked to yashveerworks@gmail.com
 3. Replace form action with Formspree endpoint

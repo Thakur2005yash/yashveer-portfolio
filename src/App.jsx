@@ -5,6 +5,10 @@ import About from './components/About';
 import Skills from './components/Skills';
 import SkillsLogos from './components/SkillsLogos';
 import Projects from './components/Projects';
+import Resume from './components/Resume';
+import Education from './components/Education';
+import Certifications from './components/Certifications';
+import Achievements from './components/Achievements';
 import CodingProfiles from './components/CodingProfiles';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -31,6 +35,10 @@ function App() {
         <Skills />
         <SkillsLogos />
         <Projects />
+        <Resume />
+        <Education />
+        <Certifications />
+        <Achievements />
         <section className="container-custom mx-auto py-12">
           <GitHubContributions />
         </section>
@@ -42,7 +50,7 @@ function App() {
       <ContactModal
         isOpen={isContactOpen}
         onClose={() => setIsContactOpen(false)}
-        email="ayushpalworks@gmail.com"
+        email="thakuryashveer2005@gmail.com"
       />
     </div>
   );

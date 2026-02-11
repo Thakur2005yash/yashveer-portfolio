@@ -5,8 +5,8 @@ const Hero = ({ onContactClick }) => {
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-black dark:to-gray-900">
       <div className="container-custom text-center">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6">
-            Hi, I'm <span className="text-blue-600 dark:text-blue-500">Ayush Pal</span>
+            <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6">
+            Hi, I'm <span className="text-blue-600 dark:text-blue-500">Yashveer</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
             Full-Stack Developer | UI/UX Designer | Creative Thinker
@@ -34,7 +34,7 @@ const Hero = ({ onContactClick }) => {
           </div>
           <div className="mt-16 flex justify-center space-x-6">
             <a 
-              href="https://github.com/ayushxpal" 
+              href="https://github.com/yashveer" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-500 transition-colors"
@@ -44,7 +44,7 @@ const Hero = ({ onContactClick }) => {
               </svg>
             </a>
             <a 
-              href="https://linkedin.com/in/ayushxpal" 
+              href="https://linkedin.com/in/yashveer" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-500 transition-colors"
@@ -54,7 +54,7 @@ const Hero = ({ onContactClick }) => {
               </svg>
             </a>
             <a 
-              href="mailto:ayushpalworks@gmail.com" 
+              href="mailto:yashveerworks@gmail.com" 
               className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-500 transition-colors"
             >
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

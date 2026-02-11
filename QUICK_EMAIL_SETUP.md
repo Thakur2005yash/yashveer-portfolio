@@ -11,7 +11,7 @@
 
 2. **Get EmailJS credentials**:
    - Go to https://www.emailjs.com/
-   - Add Gmail service connected to ayushpalworks@gmail.com
+   - Add Gmail service connected to yashveerworks@gmail.com
    - Create template with {{from_name}}, {{from_email}}, {{message}}
    - Copy your Service ID, Template ID, and Public Key
 
@@ -20,11 +20,11 @@
 ## Option 2: Formspree (Easiest)
 
 1. Sign up at https://formspree.io/
-2. Create form linked to ayushpalworks@gmail.com
+2. Create form linked to yashveerworks@gmail.com
 3. Replace form action with Formspree endpoint
 
 ## Testing
 
-After setup, test the contact form. You should receive emails at ayushpalworks@gmail.com within seconds.
+After setup, test the contact form. You should receive emails at yashveerworks@gmail.com within seconds.
 
 The form is already configured - just add your credentials!

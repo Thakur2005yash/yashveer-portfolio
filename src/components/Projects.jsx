@@ -34,8 +34,8 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1563013542-302247633-73d44b8e94d8f?auto=format&fit=crop&w=600&h=400',
       tech: ['React', 'Node.js', 'MongoDB', 'Stripe', 'Tailwind CSS'],
       category: 'fullstack',
-      liveUrl: 'https://ayushxpal-portfolio.vercel.app/ecommerce',
-      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
+      liveUrl: 'https://yashveer-portfolio.vercel.app/ecommerce',
+      githubUrl: 'https://github.com/yashveer/yashveer-portfolio'
     },
     {
       id: 2,
@@ -44,8 +44,8 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-16185649935-11ab4cbd4871b83e?auto=format&fit=crop&w=600&h=400',
       tech: ['React', 'Firebase', 'Material-UI', 'Redux'],
       category: 'fullstack',
-      liveUrl: 'https://ayushxpal-portfolio.vercel.app/tasks',
-      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
+      liveUrl: 'https://yashveer-portfolio.vercel.app/tasks',
+      githubUrl: 'https://github.com/yashveer/yashveer-portfolio'
     },
     {
       id: 3,
@@ -54,8 +54,8 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1550745248-5e9a331629a7?auto=format&fit=crop&w=600&h=400',
       tech: ['React', 'JavaScript', 'Chart.js', 'OpenWeather API'],
       category: 'fullstack',
-      liveUrl: 'https://ayushxpal-portfolio.vercel.app/weather',
-      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
+      liveUrl: 'https://yashveer-portfolio.vercel.app/weather',
+      githubUrl: 'https://github.com/yashveer/yashveer-portfolio'
     },
     {
       id: 4,
@@ -64,8 +64,8 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-15432463831-0f6ec4700b2?auto=format&fit=crop&w=600&h=400',
       tech: ['Next.js', 'PostgreSQL', 'Prisma', 'Tailwind CSS'],
       category: 'fullstack',
-      liveUrl: 'https://ayushxpal-portfolio.vercel.app/blog',
-      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
+      liveUrl: 'https://yashveer-portfolio.vercel.app/blog',
+      githubUrl: 'https://github.com/yashveer/yashveer-portfolio'
     },
     {
       id: 5,
@@ -74,8 +74,8 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1557427272-ffd05d4f3?auto=format&fit=crop&w=600&h=400',
       tech: ['React', 'Tailwind CSS', 'Framer Motion', 'Vercel'],
       category: 'frontend',
-      liveUrl: 'https://ayushxpal-portfolio.vercel.app',
-      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
+      liveUrl: 'https://yashveer-portfolio.vercel.app',
+      githubUrl: 'https://github.com/yashveer/yashveer-portfolio'
     },
     {
       id: 6,
@@ -84,8 +84,8 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1464334394-460e3278f8?auto=format&fit=crop&w=600&h=400',
       tech: ['Node.js', 'Express', 'PostgreSQL', 'Docker', 'JWT'],
       category: 'backend',
-      liveUrl: 'https://ayushxpal-portfolio.vercel.app/api',
-      githubUrl: 'https://github.com/ayushxpal/ayushxpal-portfolio'
+      liveUrl: 'https://yashveer-portfolio.vercel.app/api',
+      githubUrl: 'https://github.com/yashveer/yashveer-portfolio'
     }
   ];
 

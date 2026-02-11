@@ -4,49 +4,49 @@ const CodingProfiles = () => {
   const profiles = [
     {
       name: 'GitHub',
-      username: 'ayushxpal',
+      username: 'yashveer',
       icon: '🐙',
-      url: 'https://github.com/ayushxpal',
+      url: 'https://github.com/yashveer',
       description: 'Open source contributions and projects',
       stats: { label: 'Repositories', value: '50+' }
     },
     {
       name: 'LeetCode',
-      username: 'ayushxpal',
+      username: 'yashveer',
       icon: '💻',
-      url: 'https://leetcode.com/ayushxpal',
+      url: 'https://leetcode.com/yashveer',
       description: 'Problem solving and algorithms',
       stats: { label: 'Problems Solved', value: '200+' }
     },
     {
       name: 'Codeforces',
-      username: 'ayushxpal',
+      username: 'yashveer',
       icon: '⚡',
-      url: 'https://codeforces.com/profile/ayushxpal',
+      url: 'https://codeforces.com/profile/yashveer',
       description: 'Competitive programming',
       stats: { label: 'Rating', value: '1600+' }
     },
     {
       name: 'HackerRank',
-      username: 'ayushxpal',
+      username: 'yashveer',
       icon: '🏆',
-      url: 'https://hackerrank.com/ayushxpal',
+      url: 'https://hackerrank.com/yashveer',
       description: 'Coding challenges and certifications',
       stats: { label: 'Badges', value: '15+' }
     },
     {
       name: 'Stack Overflow',
-      username: 'ayushxpal',
+      username: 'yashveer',
       icon: '📚',
-      url: 'https://stackoverflow.com/users/123456/ayush-pal',
+      url: 'https://stackoverflow.com/users/123456/yashveer',
       description: 'Community contributions',
       stats: { label: 'Reputation', value: '1k+' }
     },
     {
       name: 'Dev.to',
-      username: 'ayushxpal',
+      username: 'yashveer',
       icon: '✍️',
-      url: 'https://dev.to/ayushxpal',
+      url: 'https://dev.to/yashveer',
       description: 'Blog posts and tutorials',
       stats: { label: 'Articles', value: '25+' }
     }

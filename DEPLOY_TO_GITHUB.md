@@ -12,23 +12,23 @@ Download and install Git from: https://git-scm.com/download/win
    ```
 
 ## Step 3: Initialize Git Repository
-```bash
-git init
-git add .
-git commit -m "Initial commit - Ayush Pal Portfolio"
-```
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit - Yashveer Portfolio"
+   ```
 
 ## Step 4: Create GitHub Repository
-1. Go to https://github.com/ayushxpal
+1. Go to https://github.com/yashveer
 2. Click "New repository"
-3. Name: `ayush-portfolio`
-4. Description: `Modern portfolio website for Ayush Pal`
+3. Name: `yashveer-portfolio`
+4. Description: `Modern portfolio website for Yashveer`
 5. Make it **Public**
 6. Click "Create repository"
 
 ## Step 5: Push to GitHub
 ```bash
-git remote add origin https://github.com/ayushxpal/ayush-portfolio.git
+git remote add origin https://github.com/yashveer/yashveer-portfolio.git
 git branch -M main
 git push -u origin main
 ```
@@ -37,20 +37,20 @@ git push -u origin main
 1. Go to https://vercel.com
 2. Sign up with GitHub
 3. Click "New Project"
-4. Select `ayush-portfolio` repository
+4. Select `yashveer-portfolio` repository
 5. Click "Deploy"
-6. Your site will be live at: `https://ayush-portfolio.vercel.app`
+6. Your site will be live at: `https://yashveer-portfolio.vercel.app`
 
 ## 🎉 Done!
 
 Your portfolio will be live and accessible to everyone!
 
-### Repository URL: https://github.com/ayushxpal/ayush-portfolio
-### Live Site: https://ayush-portfolio.vercel.app
+### Repository URL: https://github.com/yashveer/yashveer-portfolio
+### Live Site: https://yashveer-portfolio.vercel.app
 
 ---
 
 **Note**: If you face any issues, make sure:
 - Git is properly installed
-- You're logged into GitHub (`git config --global user.name "ayushxpal"`)
+- You're logged into GitHub (`git config --global user.name "yashveer"`)
 - Your GitHub token has push permissions

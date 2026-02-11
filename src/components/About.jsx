@@ -17,8 +17,8 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://via.placeholder.com/400x400/4F46E5/FFFFFF?text=Ayush+Pal"
-                alt="Ayush Pal" 
+                src="https://via.placeholder.com/400x400/4F46E5/FFFFFF?text=yashveer+Singh"
+                alt="Yashveer Singh" 
                 className="rounded-2xl shadow-xl w-full max-w-md mx-auto"
               />
             </div>

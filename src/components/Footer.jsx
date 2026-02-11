@@ -54,7 +54,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="md:col-span-1">
-            <h3 className="text-2xl font-bold mb-4">Ayush Pal</h3>
+            <h3 className="text-2xl font-bold mb-4">Yashveer</h3>
             <p className="text-gray-400 mb-6">
               Full-stack developer passionate about creating beautiful and functional web experiences.
             </p>
@@ -115,7 +115,7 @@ const Footer = () => {
                 <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                ayushpalworks@gmail.com
+                yashveerworks@gmail.com
               </p>
               <p className="flex items-center">
                 <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -131,10 +131,10 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-500 dark:text-gray-400">&copy; 2024 Ayush Pal. All rights reserved.</p>
+            <p className="text-gray-500 dark:text-gray-400">&copy; 2024 Yashveer. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
-              <a href="https://linkedin.com/in/ayushxpal" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-500 transition-colors">ayushxpal</a>
-              <a href="mailto:ayushpalworks@gmail.com" className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-500 transition-colors">ayushpalworks@gmail.com</a>
+              <a href="https://linkedin.com/in/yashveer" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-500 transition-colors">yashveer</a>
+              <a href="mailto:yashveerworks@gmail.com" className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-500 transition-colors">yashveerworks@gmail.com</a>
               <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors duration-200">
                 Terms of Service
               </a>
